@@ -1,0 +1,23 @@
+.generic_wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 90vw;
+  margin: 3vw 3vw 3vw 5vw;
+  display: flex;
+  gap: 10rem;
+}
+.login_container {
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.login_container .landing_preview-container {
+  width: 20rem;
+  aspect-ratio: 9/16;
+  position: relative;
+}
+
+.home_wrapper {
+    justify-content: center;
+}
