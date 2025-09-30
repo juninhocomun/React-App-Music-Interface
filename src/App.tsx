@@ -1,5 +1,5 @@
 import "./App.css";
-import LoginComponent from "./pages/Login"
+import LoginComponent from "./pages/login"
 import NotFound from "./pages/notFound"
 import Home from "./pages/home"
 import { Route, Routes } from "react-router-dom";
